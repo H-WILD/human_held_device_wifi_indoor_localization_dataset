@@ -18,7 +18,7 @@ We construct a human-held device WiFi indoor localization dataset (**H-WILD**), 
 
 - ***2023/10***
 
-Public release: Please stay tuned for updates and feel free to contact me (tianyuzhang@mail.ustc.edu.cn) if you have any questions or need further information.
+Public release: Please stay tuned for updates and feel free to contact [me]([Tianyu Zhang - Homepage (ray-ui.github.io)](https://ray-ui.github.io/)) (tianyuzhang@mail.ustc.edu.cn) if you have any questions or need further information.
 
 ## Dataset Introduction
 
